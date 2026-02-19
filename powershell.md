@@ -49,12 +49,12 @@ PowerShell is an essential tool for:
 
 ### Basic Commands to Get Started
 
-- **Get-Command**: Lists all available commands.
-- **Get-Help******: Provides help information for commands.
-- **Get-Process**: Displays all running processes.
-- **Stop-Process**: Stops a specific process.
-- **Set-Location**: Changes the current directory (like cd in Command Prompt).
-- **New-Item**: Creates a new file or directory.
+- `Get-Command`: Lists all available commands.
+- `Get-Help`: Provides help information for commands.
+- `Get-Process`: Displays all running processes.
+- `Stop-Process`: Stops a specific process.
+- `Set-Location`: Changes the current directory (like cd in Command Prompt).
+- `New-Item`: Creates a new file or directory.
 
 ### Example Script
 
@@ -73,7 +73,7 @@ When writing and debugging PowerShell scripts, using a dedicated editor can grea
 
 #### Windows PowerShell Integrated Scripting Environment (ISE)
 
-What it is: A built-in editor for Windows PowerShell (versions 1.0 to 5.1).
+- **What it is**: A built-in editor for Windows PowerShell (versions 1.0 to 5.1).
 Features:
 Syntax highlighting.
 Debugging tools (breakpoints, step-through execution).
@@ -85,14 +85,20 @@ ISE Image goes here
 
 #### Visual Studio Code (VS Code)
 
-What it is: A free, open-source, cross-platform code editor by Microsoft.
-Features:
-Syntax highlighting and IntelliSense for PowerShell.
-Integrated terminal for running scripts.
-Extensions for additional functionality (e.g., PowerShell extension).
-Support for Git and other version control systems.
-Cross-platform (Windows, macOS, Linux).
-Best for: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
+- **What it is**: A free, open-source, cross-platform code editor by Microsoft.
+- **Features**:
+
+    - Syntax highlighting and IntelliSense for PowerShell.
+
+    - Integrated terminal for running scripts.
+
+    - Extensions for additional functionality (e.g., PowerShell extension).
+
+    - Support for Git and other version control systems.
+
+    - Cross-platform (Windows, macOS, Linux).
+
+- **Best for**: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
 
 VSCode Image goes here
 
